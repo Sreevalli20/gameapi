@@ -1,0 +1,312 @@
+{
+  "generated_at": "2026-11-21T00:00:00Z",
+  "source": "SportRadar Tennis API v3 (offline snapshot)",
+  "complexes": [
+    {
+      "complex_id": "sr:complex:1",
+      "complex_name": "Nacional",
+      "venues": [
+        {"venue_id": "sr:venue:1001", "venue_name": "Nacional - Court 1", "city_name": "Santiago", "country_name": "Chile", "country_code": "CHL", "timezone": "America/Santiago"},
+        {"venue_id": "sr:venue:1002", "venue_name": "Nacional - Court 2", "city_name": "Santiago", "country_name": "Chile", "country_code": "CHL", "timezone": "America/Santiago"},
+        {"venue_id": "sr:venue:1003", "venue_name": "Nacional - Court 3", "city_name": "Santiago", "country_name": "Chile", "country_code": "CHL", "timezone": "America/Santiago"},
+        {"venue_id": "sr:venue:1004", "venue_name": "Nacional - Court 4", "city_name": "Santiago", "country_name": "Chile", "country_code": "CHL", "timezone": "America/Santiago"},
+        {"venue_id": "sr:venue:1005", "venue_name": "Nacional - Show Court", "city_name": "Santiago", "country_name": "Chile", "country_code": "CHL", "timezone": "America/Santiago"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:2",
+      "complex_name": "All England Lawn Tennis and Croquet Club",
+      "venues": [
+        {"venue_id": "sr:venue:1010", "venue_name": "Centre Court", "city_name": "London", "country_name": "United Kingdom", "country_code": "GBR", "timezone": "Europe/London"},
+        {"venue_id": "sr:venue:1011", "venue_name": "Court No. 1", "city_name": "London", "country_name": "United Kingdom", "country_code": "GBR", "timezone": "Europe/London"},
+        {"venue_id": "sr:venue:1012", "venue_name": "Court No. 2", "city_name": "London", "country_name": "United Kingdom", "country_code": "GBR", "timezone": "Europe/London"},
+        {"venue_id": "sr:venue:1013", "venue_name": "Court No. 3", "city_name": "London", "country_name": "United Kingdom", "country_code": "GBR", "timezone": "Europe/London"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:3",
+      "complex_name": "Melbourne Park",
+      "venues": [
+        {"venue_id": "sr:venue:1020", "venue_name": "Rod Laver Arena", "city_name": "Melbourne", "country_name": "Australia", "country_code": "AUS", "timezone": "Australia/Melbourne"},
+        {"venue_id": "sr:venue:1021", "venue_name": "Margaret Court Arena", "city_name": "Melbourne", "country_name": "Australia", "country_code": "AUS", "timezone": "Australia/Melbourne"},
+        {"venue_id": "sr:venue:1022", "venue_name": "John Cain Arena", "city_name": "Melbourne", "country_name": "Australia", "country_code": "AUS", "timezone": "Australia/Melbourne"},
+        {"venue_id": "sr:venue:1023", "venue_name": "Court 3", "city_name": "Melbourne", "country_name": "Australia", "country_code": "AUS", "timezone": "Australia/Melbourne"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:4",
+      "complex_name": "Stade Roland Garros",
+      "venues": [
+        {"venue_id": "sr:venue:1030", "venue_name": "Philippe Chatrier Court", "city_name": "Paris", "country_name": "France", "country_code": "FRA", "timezone": "Europe/Paris"},
+        {"venue_id": "sr:venue:1031", "venue_name": "Suzanne Lenglen Court", "city_name": "Paris", "country_name": "France", "country_code": "FRA", "timezone": "Europe/Paris"},
+        {"venue_id": "sr:venue:1032", "venue_name": "Court Simonne-Mathieu", "city_name": "Paris", "country_name": "France", "country_code": "FRA", "timezone": "Europe/Paris"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:5",
+      "complex_name": "USTA Billie Jean King National Tennis Center",
+      "venues": [
+        {"venue_id": "sr:venue:1040", "venue_name": "Arthur Ashe Stadium", "city_name": "New York", "country_name": "United States", "country_code": "USA", "timezone": "America/New_York"},
+        {"venue_id": "sr:venue:1041", "venue_name": "Louis Armstrong Stadium", "city_name": "New York", "country_name": "United States", "country_code": "USA", "timezone": "America/New_York"},
+        {"venue_id": "sr:venue:1042", "venue_name": "Grandstand", "city_name": "New York", "country_name": "United States", "country_code": "USA", "timezone": "America/New_York"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:6",
+      "complex_name": "Indiana Wells Tennis Garden",
+      "venues": [
+        {"venue_id": "sr:venue:1050", "venue_name": "Stadium 1", "city_name": "Indian Wells", "country_name": "United States", "country_code": "USA", "timezone": "America/Los_Angeles"},
+        {"venue_id": "sr:venue:1051", "venue_name": "Stadium 2", "city_name": "Indian Wells", "country_name": "United States", "country_code": "USA", "timezone": "America/Los_Angeles"},
+        {"venue_id": "sr:venue:1052", "venue_name": "Stadium 3", "city_name": "Indian Wells", "country_name": "United States", "country_code": "USA", "timezone": "America/Los_Angeles"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:7",
+      "complex_name": "Monte Carlo Country Club",
+      "venues": [
+        {"venue_id": "sr:venue:1060", "venue_name": "Stade Rainier III", "city_name": "Roquebrune-Cap-Martin", "country_name": "Monaco", "country_code": "MCO", "timezone": "Europe/Monaco"},
+        {"venue_id": "sr:venue:1061", "venue_name": "Stade Rainier II", "city_name": "Roquebrune-Cap-Martin", "country_name": "Monaco", "country_code": "MCO", "timezone": "Europe/Monaco"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:8",
+      "complex_name": "Foro Italico",
+      "venues": [
+        {"venue_id": "sr:venue:1070", "venue_name": "Stadio Centrale", "city_name": "Rome", "country_name": "Italy", "country_code": "ITA", "timezone": "Europe/Rome"},
+        {"venue_id": "sr:venue:1071", "venue_name": "Campo Centrale", "city_name": "Rome", "country_name": "Italy", "country_code": "ITA", "timezone": "Europe/Rome"},
+        {"venue_id": "sr:venue:1072", "venue_name": "Campo 2", "city_name": "Rome", "country_name": "Italy", "country_code": "ITA", "timezone": "Europe/Rome"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:9",
+      "complex_name": "Madrid Open Grounds",
+      "venues": [
+        {"venue_id": "sr:venue:1080", "venue_name": "Manolo Santana Court", "city_name": "Madrid", "country_name": "Spain", "country_code": "ESP", "timezone": "Europe/Madrid"},
+        {"venue_id": "sr:venue:1081", "venue_name": "Arantxa Sanchez Vicario Court", "city_name": "Madrid", "country_name": "Spain", "country_code": "ESP", "timezone": "Europe/Madrid"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:10",
+      "complex_name": "Barcelona Open Grounds",
+      "venues": [
+        {"venue_id": "sr:venue:1090", "venue_name": "Estadi Olimpic Court", "city_name": "Barcelona", "country_name": "Spain", "country_code": "ESP", "timezone": "Europe/Madrid"},
+        {"venue_id": "sr:venue:1091", "venue_name": "Centre Court Catalonia", "city_name": "Barcelona", "country_name": "Spain", "country_code": "ESP", "timezone": "Europe/Madrid"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:11",
+      "complex_name": "Halle Westfalenstadion",
+      "venues": [
+        {"venue_id": "sr:venue:1100", "venue_name": "Centre Court", "city_name": "Halle", "country_name": "Germany", "country_code": "DEU", "timezone": "Europe/Berlin"},
+        {"venue_id": "sr:venue:1101", "venue_name": "Court 1", "city_name": "Halle", "country_name": "Germany", "country_code": "DEU", "timezone": "Europe/Berlin"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:12",
+      "complex_name": "Queen's Club",
+      "venues": [
+        {"venue_id": "sr:venue:1110", "venue_name": "Centre Court", "city_name": "London", "country_name": "United Kingdom", "country_code": "GBR", "timezone": "Europe/London"},
+        {"venue_id": "sr:venue:1111", "venue_name": "Court 1", "city_name": "London", "country_name": "United Kingdom", "country_code": "GBR", "timezone": "Europe/London"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:13",
+      "complex_name": "International Tennis Centre",
+      "venues": [
+        {"venue_id": "sr:venue:1120", "venue_name": "Centre Court", "city_name": "Eastbourne", "country_name": "United Kingdom", "country_code": "GBR", "timezone": "Europe/London"},
+        {"venue_id": "sr:venue:1121", "venue_name": "Court 1", "city_name": "Eastbourne", "country_name": "United Kingdom", "country_code": "GBR", "timezone": "Europe/London"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:14",
+      "complex_name": "Mallorca Country Club",
+      "venues": [
+        {"venue_id": "sr:venue:1130", "venue_name": "Centre Court", "city_name": "Santa Ponsa", "country_name": "Spain", "country_code": "ESP", "timezone": "Europe/Madrid"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:15",
+      "complex_name": "Harena Veronica",
+      "venues": [
+        {"venue_id": "sr:venue:1140", "venue_name": "Main Court", "city_name": "Geneva", "country_name": "Switzerland", "country_code": "CHE", "timezone": "Europe/Zurich"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:16",
+      "complex_name": "Monte Carlo Sporting Club",
+      "venues": [
+        {"venue_id": "sr:venue:1150", "venue_name": "Stade Omnisports", "city_name": "Monte Carlo", "country_name": "Monaco", "country_code": "MCO", "timezone": "Europe/Monaco"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:17",
+      "complex_name": "Shanghai Qizhong Stadium",
+      "venues": [
+        {"venue_id": "sr:venue:1160", "venue_name": "Centre Court", "city_name": "Shanghai", "country_name": "China", "country_code": "CHN", "timezone": "Asia/Shanghai"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:18",
+      "complex_name": "ARIAKE Coliseum",
+      "venues": [
+        {"venue_id": "sr:venue:1170", "venue_name": "Ariake Coliseum", "city_name": "Tokyo", "country_name": "Japan", "country_code": "JPN", "timezone": "Asia/Tokyo"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:19",
+      "complex_name": "Cincinnati Open Grounds",
+      "venues": [
+        {"venue_id": "sr:venue:1180", "venue_name": "Center Court", "city_name": "Mason", "country_name": "United States", "country_code": "USA", "timezone": "America/New_York"},
+        {"venue_id": "sr:venue:1181", "venue_name": "Grandstand", "city_name": "Mason", "country_name": "United States", "country_code": "USA", "timezone": "America/New_York"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:20",
+      "complex_name": "Montreal Stadium",
+      "venues": [
+        {"venue_id": "sr:venue:1190", "venue_name": "Centre Court", "city_name": "Montreal", "country_name": "Canada", "country_code": "CAN", "timezone": "America/Toronto"},
+        {"venue_id": "sr:venue:1191", "venue_name": "Stade Uniprix", "city_name": "Montreal", "country_name": "Canada", "country_code": "CAN", "timezone": "America/Toronto"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:21",
+      "complex_name": "Dubai Duty Free Tennis Stadiums",
+      "venues": [
+        {"venue_id": "sr:venue:1200", "venue_name": "Centre Court", "city_name": "Dubai", "country_name": "United Arab Emirates", "country_code": "ARE", "timezone": "Asia/Dubai"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:22",
+      "complex_name": "Khalifa International Tennis and Squash Complex",
+      "venues": [
+        {"venue_id": "sr:venue:1210", "venue_name": "Centre Court", "city_name": "Doha", "country_name": "Qatar", "country_code": "QAT", "timezone": "Asia/Qatar"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:23",
+      "complex_name": "Hard Rock Stadium Tennis Center",
+      "venues": [
+        {"venue_id": "sr:venue:1220", "venue_name": "Stadium Court", "city_name": "Miami Gardens", "country_name": "United States", "country_code": "USA", "timezone": "America/New_York"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:24",
+      "complex_name": "Patriarchal Yerevan Tennis Center",
+      "venues": [
+        {"venue_id": "sr:venue:1230", "venue_name": "Centre Court", "city_name": "Yerevan", "country_name": "Armenia", "country_code": "ARM", "timezone": "Asia/Yerevan"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:25",
+      "complex_name": "Stade de Gruyere",
+      "venues": [
+        {"venue_id": "sr:venue:1240", "venue_name": "Centre Court", "city_name": "Gstaad", "country_name": "Switzerland", "country_code": "CHE", "timezone": "Europe/Zurich"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:26",
+      "complex_name": "Estadio Nacional de Chile",
+      "venues": [
+        {"venue_id": "sr:venue:1250", "venue_name": "Estadio Nacional - Cancha Central", "city_name": "Santiago", "country_name": "Chile", "country_code": "CHL", "timezone": "America/Santiago"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:27",
+      "complex_name": "Polideportivo Jorge Luis Hirschi",
+      "venues": [
+        {"venue_id": "sr:venue:1260", "venue_name": "Cancha 1", "city_name": "La Serena", "country_name": "Chile", "country_code": "CHL", "timezone": "America/Santiago"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:28",
+      "complex_name": "Club de Tenis San Carlos",
+      "venues": [
+        {"venue_id": "sr:venue:1270", "venue_name": "Cancha Principal", "city_name": "Vina del Mar", "country_name": "Chile", "country_code": "CHL", "timezone": "America/Santiago"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:29",
+      "complex_name": "Stade Pierre Mauroy",
+      "venues": [
+        {"venue_id": "sr:venue:1280", "venue_name": "Court Suzanne Lenglen", "city_name": "Villeneuve-d'Ascq", "country_name": "France", "country_code": "FRA", "timezone": "Europe/Paris"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:30",
+      "complex_name": "ATP & WTA Shanghai",
+      "venues": [
+        {"venue_id": "sr:venue:1290", "venue_name": "Qizhong Stadium Court 1", "city_name": "Shanghai", "country_name": "China", "country_code": "CHN", "timezone": "Asia/Shanghai"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:31",
+      "complex_name": "Hangzhou Olympic Sports Center",
+      "venues": [
+        {"venue_id": "sr:venue:1300", "venue_name": "Centre Court", "city_name": "Hangzhou", "country_name": "China", "country_code": "CHN", "timezone": "Asia/Shanghai"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:32",
+      "complex_name": "Mallorca Tennis Club",
+      "venues": [
+        {"venue_id": "sr:venue:1310", "venue_name": "Court 1", "city_name": "Palma de Mallorca", "country_name": "Spain", "country_code": "ESP", "timezone": "Europe/Madrid"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:33",
+      "complex_name": "Stadion Wilmersdorf",
+      "venues": [
+        {"venue_id": "sr:venue:1320", "venue_name": "Centre Court", "city_name": "Berlin", "country_name": "Germany", "country_code": "DEU", "timezone": "Europe/Berlin"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:34",
+      "complex_name": "Tennis Club Unterhaching",
+      "venues": [
+        {"venue_id": "sr:venue:1330", "venue_name": "Centre Court", "city_name": "Unterhaching", "country_name": "Germany", "country_code": "DEU", "timezone": "Europe/Berlin"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:35",
+      "complex_name": "Sportpark Hohenweg",
+      "venues": [
+        {"venue_id": "sr:venue:1340", "venue_name": "Court 1", "city_name": "Basel", "country_name": "Switzerland", "country_code": "CHE", "timezone": "Europe/Zurich"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:36",
+      "complex_name": "Halle Arena",
+      "venues": [
+        {"venue_id": "sr:venue:1350", "venue_name": "Court 2", "city_name": "Halle", "country_name": "Germany", "country_code": "DEU", "timezone": "Europe/Berlin"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:37",
+      "complex_name": "Honk Kong Stadium",
+      "venues": [
+        {"venue_id": "sr:venue:1360", "venue_name": "Centre Court", "city_name": "Hong Kong", "country_name": "Hong Kong", "country_code": "HKG", "timezone": "Asia/Hong_Kong"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:38",
+      "complex_name": "Seoul Olympic Park",
+      "venues": [
+        {"venue_id": "sr:venue:1370", "venue_name": "Centre Court", "city_name": "Seoul", "country_name": "South Korea", "country_code": "KOR", "timezone": "Asia/Seoul"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:39",
+      "complex_name": "Flushing Meadows WC Tennis Center",
+      "venues": [
+        {"venue_id": "sr:venue:1380", "venue_name": "Grandstand Court", "city_name": "New York", "country_name": "United States", "country_code": "USA", "timezone": "America/New_York"}
+      ]
+    },
+    {
+      "complex_id": "sr:complex:40",
+      "complex_name": "Marchbanks Tennis Centre",
+      "venues": [
+        {"venue_id": "sr:venue:1390", "venue_name": "Centre Court", "city_name": "Toronto", "country_name": "Canada", "country_code": "CAN", "timezone": "America/Toronto"}
+      ]
+    }
+  ]
+}
